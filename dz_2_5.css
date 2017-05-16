@@ -1,0 +1,17 @@
+.headers{
+    background:#D6D7BF; 
+    width:450px;
+    height:200px;
+    margin-bottom:20px;
+    padding: 2px 10px 10px 5px;
+}
+h1{
+    color:#522606;
+
+}
+h3{
+    color:#86542E;
+
+}
+.url{
+    color: green;
